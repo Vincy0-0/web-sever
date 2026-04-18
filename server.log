@@ -25,3 +25,7 @@ IP: 127.0.0.1 | Time: [2026-04-18 17:53:14] | File: /nostudy.jpg | Status: 404
 IP: 127.0.0.1 | Time: [2026-04-18 17:53:18] | File: /no_study.JPG | Status: 200
 IP: 127.0.0.1 | Time: [2026-04-18 17:53:23] | File: /no_study.JPG | Status: 200
 IP: 127.0.0.1 | Time: [2026-04-18 17:59:55] | File: /index.html | Status: 200
+IP: 127.0.0.1 | Time: [2026-04-18 18:26:53] | File: /../src/server.py | Status: 403
+IP: 127.0.0.1 | Time: [2026-04-18 18:27:33] | File: /index.html | Status: 304
+IP: 127.0.0.1 | Time: [2026-04-18 18:27:53] | File: /index.html | Status: 400
+IP: 127.0.0.1 | Time: [2026-04-18 18:28:08] | File: /index.html | Status: 200
