@@ -29,3 +29,6 @@ IP: 127.0.0.1 | Time: [2026-04-18 18:26:53] | File: /../src/server.py | Status: 
 IP: 127.0.0.1 | Time: [2026-04-18 18:27:33] | File: /index.html | Status: 304
 IP: 127.0.0.1 | Time: [2026-04-18 18:27:53] | File: /index.html | Status: 400
 IP: 127.0.0.1 | Time: [2026-04-18 18:28:08] | File: /index.html | Status: 200
+IP: 127.0.0.1 | Time: [2026-04-20 12:43:57] | File: /index.html | Status: 200
+IP: 127.0.0.1 | Time: [2026-04-20 12:45:24] | File: /nonexistent_file.html | Status: 404
+IP: 127.0.0.1 | Time: [2026-04-20 12:48:51] | File: /index.html | Status: 200

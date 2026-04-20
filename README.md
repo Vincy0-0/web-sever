@@ -14,9 +14,10 @@ How to Compile and Run
 2. Run the server by targeting the script inside the src folder:
    ```bash
    python src/server.py
-3. Open the link in PORTS or copy it into the browser
-4. Add /index.html at the end of the link when its not working for the text file
-5. Add no_study.JPG at the end of the link when its not working for the image file
+3. Set the PORT 8080 into public
+4. Open the link in PORTS or copy it into the browser
+5. Add /index.html at the end of the link when its not working for the text file
+6. Add no_study.JPG at the end of the link when its not working for the image file
 
 Testing Commands
 **1. Test 200 OK (Success for Text and Images)**
